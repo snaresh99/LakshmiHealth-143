@@ -1,5 +1,7 @@
 # LakshmiHealth-143
 Python Challenges (100 Proven programming tasks designed to prepare me for anything)
+
+Book by **Michael Inden**
 Basic instructions on how to create repo and checkin the code in GitRepository
 …or create a new repository on the command line
 echo "# LakshmiHealth-143" >> README.md

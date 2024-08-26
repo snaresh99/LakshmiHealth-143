@@ -1,4 +1,4 @@
-# LakshmiHealth-143
+# 
 Python Challenges (100 Proven programming tasks designed to prepare me for anything)
 
 Book by **Michael Inden**
